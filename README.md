@@ -1,0 +1,13 @@
+- 🙋‍♂️ Hi, I’m @eGodwinbeq (Bwambale Ezra Godwin) Curentli
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning ...
+- 📫 e-godwinbwambale@outlook.com |or|  ...
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: ...
+
+
+
+<!---
+eGodwinbeq/eGodwinbeq is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
