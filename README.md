@@ -7,7 +7,7 @@
 > - 😄 Pronouns: He/Him
 > - ⚡ Fun fact: ...
 
- **Skills**
+ **Skills 🧑‍💻**
 > - Proficient in PHP programming language.
 > - Familiarity with MySQL database management.
 > - Understanding of HTML & CSS.
