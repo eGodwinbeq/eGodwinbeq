@@ -1,11 +1,10 @@
 **Get to Know me**
 --
 > - 🙋‍♂️ Hi, I’m @eGodwinbeq (Bwambale Ezra Godwin) Curently a trainee  Software developer an Nugsofte
-> - 👀 I’m interested in ...
-> - 🌱 I’m currently learning ...
-> - 📫 e-godwinbwambale@outlook.com |or|  ...
+> - 👀 I’m  writing to make the work A better place.
+> - 🌱 I’m currently learning at Nugsoft Technologies.
+> - 📫 e-godwinbwambale@outlook.com |or|  beqezra@gmail.com
 > - 😄 Pronouns: He/Him
-> - ⚡ Fun fact: ...
 
  **Skills 🧑‍💻**
 > - Proficient in PHP programming language.
