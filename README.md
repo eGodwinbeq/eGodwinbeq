@@ -1,14 +1,13 @@
 **Get to Know me**
 --
-> - 🙋‍♂️ Hi, I’m @eGodwinbeq (Bwambale Ezra Godwin) Curently a trainee  Software developer an Nugsofte
-> - 👀 I’m  writing to make the work A better place.
-> - 🌱 I’m currently learning at Nugsoft Technologies.
+> - 🙋‍♂️ Hi, I’m @eGodwinbeq (Bwambale Ezra Godwin) Curently a trainee  Software developer at Nugsoft Technologies
+> - 👀 I’m  writing to make the world a better place.
 > - 📫 e-godwinbwambale@outlook.com |or|  beqezra@gmail.com
 > - 😄 Pronouns: He/Him
 
  **Skills 🧑‍💻**
-> - Proficient in PHP programming language.
-> - Familiarity with MySQL database management.
+> - Competent in PHP programming language.
+> - Proficient with MySQL database management.
 > - Understanding of HTML & CSS.
 > - Experience with Git version control system.
 > - Basic knowledge of MVC frameworks.
