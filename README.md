@@ -3,7 +3,6 @@
 > - 🙋‍♂️ Hi, I’m @eGodwinbeq (Bwambale Ezra Godwin) Curently a trainee  Software developer at Nugsoft Technologies
 > - 👀 I’m  writing to make the world a better place.
 > - 📫 e-godwinbwambale@outlook.com |or|  beqezra@gmail.com
-> - 😄 Pronouns: He/Him
 
  **Skills 🧑‍💻**
 > - Competent in PHP programming language.
