@@ -19,7 +19,7 @@
 <p align="left">
 <a href="https://codepen.io/beq-ezra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="beq-ezra" height="30" width="40" /></a>
 <a href="https://dev.to/bwambale" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="bwambale" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/beq-ezra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="beq-ezra" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/23782401/beq-ezra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="beq-ezra" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
