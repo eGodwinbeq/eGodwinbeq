@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=egodwinbeq&label=Profile%20views&color=0e75b6&style=flat" alt="egodwinbeq" /> </p>
 
-- 🔭 I’m currently working on **Poultry Farm IMS**
+- 🔭 I’m currently working on **School Monitor**
 
 - 🌱 I’m currently learning **PHP**
 
