@@ -10,7 +10,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eGodwinbeq" alt="eGodwinbeq" /></a> </p>
 
-- 🌱 I'm currently learning **Laravel, Prompt Eng.**
+- 🌱 I'm currently doing **Laravel, Prompt Eng.**
 
 - 👯 I'm looking to collaborate on **Public Impact Opensource **
 
