@@ -8,8 +8,6 @@
 
 ### A passionate Php developer
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=eGodwinbeq" alt="eGodwinbeq" /></a> </p>
-
 - 🌱 I'm currently doing **Laravel, Prompt Eng.**
 
 - 👯 I  collaborate on **Public Impact Opensource **
