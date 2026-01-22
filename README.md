@@ -12,7 +12,7 @@
 
 - 🌱 I'm currently doing **Laravel, Prompt Eng.**
 
-- 👯 I'm looking to collaborate on **Public Impact Opensource **
+- 👯 I  collaborate on **Public Impact Opensource **
 
 - 💬 Ask me about **Web development**
 
