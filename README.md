@@ -14,8 +14,6 @@
 
 - 👯 I'm looking to collaborate on **Public Impact Opensource **
 
-- 🤝 I'm looking for help with **UX Eng.**
-
 - 💬 Ask me about **Web development**
 
 - 📫 How to reach me **e-godwinbwambale@outlook.com**
